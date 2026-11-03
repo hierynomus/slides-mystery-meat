@@ -1,0 +1,7 @@
+# Slides are not regular prose: Slidev frontmatter, inline HTML and long lines are expected.
+default: true
+MD013: false   # line length
+MD033: false   # inline HTML
+MD025: false   # multiple H1 (one per slide)
+MD041: false   # first line heading (frontmatter)
+MD024: false   # duplicate headings (build slides)
